@@ -1,0 +1,22 @@
+#IDE resources
+.project
+*.config
+.idea
+.sass-cache
+.settings
+resources
+nbproject
+private
+.idea
+*.sublime-project
+*.sublime-workspace
+*.back
+*.old
+*.swp
+
+#General
+#.gitignore
+#.htaccess
+#CMS
+cache
+
